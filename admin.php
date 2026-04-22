@@ -1,0 +1,1 @@
+<?php include 'navs/navadmin.php'; ?>
